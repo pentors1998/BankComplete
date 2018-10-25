@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/MyAccountPageServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/Withdraw.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/WithdrawPageServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/MyAccount.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/WithdrawServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/index.html</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/model/History.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/Deposit.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/DepositServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/DepositPageServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/Login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/HistoryServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/web/History.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/BankPass/src/java/bank/servlet/LogoutServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
