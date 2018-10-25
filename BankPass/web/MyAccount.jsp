@@ -16,6 +16,7 @@
         <h2>Hello , ${account.name}</h2><br>
         <h2>Balance : ${account.balance}</h2>
         <br>
+        <span style="color: aquamarine">${status}</span>
         <br>
         <h3><a href="DepositPageServlet">Deposit</a></h3>
         <h3><a href="WithdrawPageServlet">Withdraw</a></h3>
